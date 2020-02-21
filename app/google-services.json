@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94962189182",
+    "firebase_url": "https://ecorpin.firebaseio.com",
+    "project_id": "ecorpin",
+    "storage_bucket": "ecorpin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94962189182:android:037f4687689f129342e92f",
+        "android_client_info": {
+          "package_name": "com.ecorpin.com.ecorpin_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94962189182-f3m3r724gcvlf2dpl91bj660tuk63tc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecorpin.com.ecorpin_x",
+            "certificate_hash": "01187d52f427aff3830b9be5b78b9ec57341c6e0"
+          }
+        },
+        {
+          "client_id": "94962189182-ccosdnnk2ikh067fapo97rn396md2mt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBM3DyAhevsS5eydRImIEem1awYXF45pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94962189182-ccosdnnk2ikh067fapo97rn396md2mt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
